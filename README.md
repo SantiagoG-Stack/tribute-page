@@ -7,6 +7,3 @@ This is a simple responsive tribute page created as part of the **Responsive Web
 - HTML5
 - CSS3
 
-## 📺 Live Demo
-
-[View on GitHub Pages](https://SantiagoG-Stack.github.io/tribute-page/)
