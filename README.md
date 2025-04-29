@@ -9,4 +9,4 @@ This is a simple responsive tribute page created as part of the **Responsive Web
 
 ## 📺 Live Demo
 
-[View on GitHub Pages](https://tuusuario.github.io/tribute-page/)
+[View on GitHub Pages](https://SantiagoG-Stack.github.io/tribute-page/)
